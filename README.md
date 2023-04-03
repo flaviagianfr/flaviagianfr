@@ -1,9 +1,11 @@
 ### Something about me 🤌
-<div style="width:100px ; height:60px">
-![Information-not-on-your-slides](https://user-images.githubusercontent.com/81876723/229601864-33a8459a-33b9-42fe-90d9-9aeb3969f937.png)
+
+<div style="width:100px ; height:60px"> 
+![Information-not-on-your-slides](https://user-images.githubusercontent.com/81876723/229601864-33a8459a-33b9-42fe-90d9-9aeb3969f937.png) 
 <div>
+  
 I'm an Italian student of Data Science at the University of Padua and I have a bachelor's degree in Statistics. 📈📊 <br />
-My greatest passions are music business, music and live events, such as festivals, in which I like to take an active part. 🎧🎵  <br />
+My greatest passions are music business, music and live events, such as festivals, in which I like to take an active part. 🎵🎧  <br />
 During my studies I did group work looking for projects that made me experiment with different types of data and different models to implement.
 
 Some useful links:
