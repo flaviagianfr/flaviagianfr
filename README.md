@@ -1,12 +1,15 @@
 ### Something about me 🤌
 
+![Information-not-on-your-slides](https://user-images.githubusercontent.com/81876723/229601864-33a8459a-33b9-42fe-90d9-9aeb3969f937.png)
 
 I'm an Italian student of Data Science at the University of Padua and I have a bachelor's degree in Statistics. 📈📊
 My greatest passions are music business, music and live events, such as festivals, in which I like to take an active part.
 During my studies I did group work looking for projects that made me experiment with different types of data and different models to implement.
 
 Some useful links:
-- Linkedin: [flaviagianfrate](https://www.linkedin.com/in/flaviagianfrate)
+- [Linkedin](https://www.linkedin.com/in/flaviagianfrate)
+- [CV](https://drive.google.com/file/d/132Td4jGLMGfGwmfFidfdTjd6xCh7nyHF/view?usp=sharing)
+- [Instagram](https://www.instagram.com/flaviagianfrate/)
 
 <!--
 **flaviagianfr/flaviagianfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
