@@ -2,7 +2,7 @@
 
 ![Information-not-on-your-slides](https://user-images.githubusercontent.com/81876723/229601864-33a8459a-33b9-42fe-90d9-9aeb3969f937.png) 
 
-<img src="https://user-images.githubusercontent.com/81876723/229601864-33a8459a-33b9-42fe-90d9-9aeb3969f937.png" height="200" width="600" >
+<img src="https://user-images.githubusercontent.com/81876723/229601864-33a8459a-33b9-42fe-90d9-9aeb3969f937.png" height="400" width="600" >
 
 I'm an Italian student of Data Science at the University of Padua and I have a bachelor's degree in Statistics. 📈📊 <br />
 My greatest passions are music business, music and live events, such as festivals, in which I like to take an active part. 🎵🎧  <br />
